@@ -1,0 +1,16 @@
+.day{
+    width: 300px;
+  border: 15px solid rgb(0, 0, 0);
+  padding: 50px;
+  margin: 20px;
+  }
+  .h1{
+    text-decoration: underline;
+  }
+
+.Michal{
+justify-content: center;
+display: flex;
+flex-direction: row;
+
+}
